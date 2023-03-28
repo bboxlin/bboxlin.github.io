@@ -3,13 +3,6 @@
     "title": "Boxiang Lin",
     "profiledir": "img/icon.svg",
     "subtitle": "(Software Engineer)",
-    "categories": [
-        "Full Stack Web",
-        "Front End",
-        "Back End",
-        "Mobile App",
-        "FPGA"
-    ],
     "languages": [
         "Python",
         "Go",
