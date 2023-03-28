@@ -28,7 +28,6 @@ function removeHighlights() {
 }
 
 function highlightMatches(element, keyword) {
-    console.log(element, keyword)
     const regex = new RegExp(`(${keyword})`, 'gi');
     const newText = $(element).text().replace(regex, '<span class="highlight">$1</span>');
     $(element).html(newText);
